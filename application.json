@@ -19,6 +19,14 @@
     {
       "id": "Page5",
       "isDefault": false
+    },
+    {
+      "id": "Page6",
+      "isDefault": false
+    },
+    {
+      "id": "Page7",
+      "isDefault": false
     }
   ],
   "viewMode": false,
