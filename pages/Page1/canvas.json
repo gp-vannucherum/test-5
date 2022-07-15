@@ -252,6 +252,7 @@
                       "hideCard": false,
                       "animateLoading": true,
                       "parentColumnSpace": 7.2109375,
+                      "dynamicTriggerPathList": [],
                       "resetOnSubmit": true,
                       "leftColumn": 22,
                       "dynamicBindingPathList": [
@@ -264,6 +265,7 @@
                       ],
                       "labelPosition": "Left",
                       "labelStyle": "",
+                      "placeholderText": "sdfgsfdg",
                       "isDisabled": false,
                       "key": "l78oyrknwd",
                       "labelTextSize": "0.875rem",
